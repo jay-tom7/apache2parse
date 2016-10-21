@@ -1,0 +1,217 @@
+local - - [24/Oct/1994:13:41:41 -0600] "GET index.html HTTP/1.0" 200 150
+local - - [24/Oct/1994:13:41:41 -0600] "GET 1.gif HTTP/1.0" 200 1210
+local - - [24/Oct/1994:13:43:13 -0600] "GET index.html HTTP/1.0" 200 3185
+local - - [24/Oct/1994:13:43:14 -0600] "GET 2.gif HTTP/1.0" 200 2555
+local - - [24/Oct/1994:13:43:15 -0600] "GET 3.gif HTTP/1.0" 200 36403
+local - - [24/Oct/1994:13:43:17 -0600] "GET 4.gif HTTP/1.0" 200 441
+local - - [24/Oct/1994:13:46:45 -0600] "GET index.html HTTP/1.0" 200 3185
+local - - [24/Oct/1994:13:46:45 -0600] "GET 2.gif HTTP/1.0" 200 2555
+local - - [24/Oct/1994:13:46:47 -0600] "GET 3.gif HTTP/1.0" 200 36403
+local - - [24/Oct/1994:13:46:50 -0600] "GET 4.gif HTTP/1.0" 200 441
+local - - [24/Oct/1994:13:47:19 -0600] "GET index.html HTTP/1.0" 200 150
+local - - [24/Oct/1994:13:47:19 -0600] "GET 1.gif HTTP/1.0" 200 1210
+local - - [24/Oct/1994:13:47:41 -0600] "GET index.html HTTP/1.0" 200 3185
+local - - [24/Oct/1994:13:47:50 -0600] "GET 5.html HTTP/1.0" 200 2065
+local - - [24/Oct/1994:13:48:11 -0600] "GET 6.html HTTP/1.0" 200 1124
+local - - [24/Oct/1994:13:48:23 -0600] "GET 7.html HTTP/1.0" 200 1538
+local - - [24/Oct/1994:13:48:51 -0600] "GET 8.html HTTP/1.0" 200 322
+local - - [24/Oct/1994:13:49:01 -0600] "GET index.html HTTP/1.0" 302 -
+local - - [24/Oct/1994:13:49:01 -0600] "GET index.html HTTP/1.0" 200 999
+local - - [24/Oct/1994:13:49:14 -0600] "GET 9.html HTTP/1.0" 200 1248
+local - - [24/Oct/1994:13:49:20 -0600] "GET index.html HTTP/1.0" 200 3185
+local - - [24/Oct/1994:13:49:21 -0600] "GET 2.gif HTTP/1.0" 200 2555
+local - - [24/Oct/1994:13:49:25 -0600] "GET 3.gif HTTP/1.0" 200 36403
+local - - [24/Oct/1994:13:49:27 -0600] "GET 4.gif HTTP/1.0" 200 441
+local - - [24/Oct/1994:13:49:39 -0600] "GET index.html HTTP/1.0" 200 150
+local - - [24/Oct/1994:13:49:49 -0600] "GET 10.html HTTP/1.0" 200 2286
+local - - [24/Oct/1994:13:50:33 -0600] "GET index.html HTTP/1.0" 200 150
+local - - [24/Oct/1994:13:55:03 -0600] "GET 11.html HTTP/1.0" 200 1213
+local - - [24/Oct/1994:13:55:04 -0600] "GET 11.html HTTP/1.0" 200 1213
+local - - [24/Oct/1994:13:55:08 -0600] "GET 12.gif HTTP/1.0" 200 191
+local - - [24/Oct/1994:13:55:21 -0600] "GET 13.gif HTTP/1.0" 200 33974
+local - - [24/Oct/1994:13:59:48 -0600] "GET index.html HTTP/1.0" 200 3185
+local - - [24/Oct/1994:13:59:55 -0600] "GET 14.html HTTP/1.0" 304 0
+local - - [24/Oct/1994:14:00:06 -0600] "GET index.html HTTP/1.0" 200 3100
+local - - [24/Oct/1994:14:00:20 -0600] "GET index.html HTTP/1.0" 302 -
+local - - [24/Oct/1994:14:00:20 -0600] "GET index.html HTTP/1.0" 200 631
+local - - [24/Oct/1994:14:00:25 -0600] "GET 15.html HTTP/1.0" 200 861
+local - - [24/Oct/1994:14:00:49 -0600] "GET index.html HTTP/1.0" 200 631
+local - - [24/Oct/1994:14:00:52 -0600] "GET 16.html HTTP/1.0" 200 1006
+local - - [24/Oct/1994:14:01:02 -0600] "GET index.html HTTP/1.0" 200 150
+local - - [24/Oct/1994:14:01:11 -0600] "GET 17.html HTTP/1.0" 200 881
+local - - [24/Oct/1994:14:01:24 -0600] "GET 18.html HTTP/1.0" 200 709
+local - - [24/Oct/1994:14:01:42 -0600] "GET 19.html HTTP/1.0" 200 1357
+local - - [24/Oct/1994:14:02:01 -0600] "GET index.html HTTP/1.0" 200 391
+remote - - [24/Oct/1994:14:03:32 -0600] "GET 20.html HTTP/1.0" 200 1530
+remote - - [24/Oct/1994:14:03:36 -0600] "GET 21.gif HTTP/1.0" 200 59975
+local - - [24/Oct/1994:14:03:39 -0600] "GET index.html HTTP/1.0" 200 410
+remote - - [24/Oct/1994:14:03:49 -0600] "GET 22.html HTTP/1.0" 200 7151
+local - - [24/Oct/1994:14:04:22 -0600] "GET index.html HTTP/1.0" 200 410
+local - - [24/Oct/1994:14:05:17 -0600] "GET index.html HTTP/1.0" 200 419
+remote - - [24/Oct/1994:14:05:31 -0600] "GET 23.html HTTP/1.0" 200 3787
+remote - - [24/Oct/1994:14:06:07 -0600] "GET 24.html HTTP/1.0" 200 4326
+local - - [24/Oct/1994:14:09:59 -0600] "GET 25.html HTTP/1.0" 200 1403
+local - - [24/Oct/1994:14:10:00 -0600] "GET 26.gif HTTP/1.0" 200 26694
+local - - [24/Oct/1994:14:10:01 -0600] "GET 27.gif HTTP/1.0" 200 871
+local - - [24/Oct/1994:14:10:28 -0600] "GET 28.html HTTP/1.0" 200 329
+local - - [24/Oct/1994:14:10:30 -0600] "GET 29.html HTTP/1.0" 200 673
+local - - [24/Oct/1994:14:10:32 -0600] "GET 14.html HTTP/1.0" 200 2130
+local - - [24/Oct/1994:14:10:32 -0600] "GET 30.gif HTTP/1.0" 200 15525
+local - - [24/Oct/1994:14:10:33 -0600] "GET 31.gif HTTP/1.0" 200 191
+local - - [24/Oct/1994:14:10:33 -0600] "GET 32.gif HTTP/1.0" 200 890
+local - - [24/Oct/1994:14:10:36 -0600] "GET 33.html HTTP/1.0" 200 1680
+local - - [24/Oct/1994:14:13:11 -0600] "GET index.html HTTP/1.0" 200 3185
+local - - [24/Oct/1994:14:13:12 -0600] "GET 2.gif HTTP/1.0" 200 2555
+local - - [24/Oct/1994:14:13:14 -0600] "GET 3.gif HTTP/1.0" 200 36403
+local - - [24/Oct/1994:14:13:16 -0600] "GET 4.gif HTTP/1.0" 200 441
+local - - [24/Oct/1994:14:14:22 -0600] "GET 34.html HTTP/1.0" 200 2631
+local - - [24/Oct/1994:14:14:23 -0600] "GET 35.xbm HTTP/1.0" 200 6258
+local - - [24/Oct/1994:14:15:54 -0600] "GET index.html HTTP/1.0" 200 3185
+local - - [24/Oct/1994:14:16:05 -0600] "GET index.html HTTP/1.0" 200 3100
+local - - [24/Oct/1994:14:16:17 -0600] "GET 36.html HTTP/1.0" 200 897
+local - - [24/Oct/1994:14:16:26 -0600] "GET index.html HTTP/1.0" 404 -
+local - - [24/Oct/1994:14:18:43 -0600] "GET index.html HTTP/1.0" 200 3185
+local - - [24/Oct/1994:14:18:53 -0600] "GET index.html HTTP/1.0" 200 3185
+local - - [24/Oct/1994:14:19:22 -0600] "GET index.html HTTP/1.0" 200 3185
+local - - [24/Oct/1994:14:19:32 -0600] "GET index.html HTTP/1.0" 200 3100
+local - - [24/Oct/1994:14:19:43 -0600] "GET 36.html HTTP/1.0" 200 892
+local - - [24/Oct/1994:14:19:52 -0600] "GET index.html HTTP/1.0" 302 -
+local - - [24/Oct/1994:14:19:53 -0600] "GET index.html HTTP/1.0" 200 2374
+local - - [24/Oct/1994:14:20:57 -0600] "GET index.html HTTP/1.0" 200 3185
+local - - [24/Oct/1994:14:21:06 -0600] "GET index.html HTTP/1.0" 200 3100
+local - - [24/Oct/1994:14:21:15 -0600] "GET 36.html HTTP/1.0" 200 894
+local - - [24/Oct/1994:14:21:21 -0600] "GET 37.html HTTP/1.0" 404 -
+local - - [24/Oct/1994:14:22:29 -0600] "GET index.html HTTP/1.0" 200 3185
+local - - [24/Oct/1994:14:22:29 -0600] "GET 2.gif HTTP/1.0" 200 2555
+local - - [24/Oct/1994:14:22:31 -0600] "GET 3.gif HTTP/1.0" 200 36403
+local - - [24/Oct/1994:14:22:32 -0600] "GET 4.gif HTTP/1.0" 200 441
+remote - - [24/Oct/1994:14:27:52 -0600] "GET index.html HTTP/1.0" 200 299
+remote - - [24/Oct/1994:14:27:58 -0600] "GET index.html HTTP/1.0" 302 -
+remote - - [24/Oct/1994:14:28:00 -0600] "GET index.html HTTP/1.0" 200 2231
+local - - [24/Oct/1994:14:28:08 -0600] "GET index.html HTTP/1.0" 200 3185
+local - - [24/Oct/1994:14:28:09 -0600] "GET 2.gif HTTP/1.0" 200 2555
+local - - [24/Oct/1994:14:28:11 -0600] "GET 3.gif HTTP/1.0" 200 36403
+local - - [24/Oct/1994:14:28:12 -0600] "GET 4.gif HTTP/1.0" 200 441
+local - - [24/Oct/1994:14:29:35 -0600] "GET index.html HTTP/1.0" 200 3185
+local - - [24/Oct/1994:14:29:50 -0600] "GET index.html HTTP/1.0" 200 3100
+local - - [24/Oct/1994:14:29:58 -0600] "GET 36.html HTTP/1.0" 200 888
+local - - [24/Oct/1994:14:30:03 -0600] "GET 37.html HTTP/1.0" 404 -
+local - - [24/Oct/1994:14:30:50 -0600] "GET index.html HTTP/1.0" 200 3185
+remote - - [24/Oct/1994:14:35:12 -0600] "GET 38.aiff HTTP/1.0" 200 319488
+local - - [24/Oct/1994:14:37:59 -0600] "GET index.html HTTP/1.0" 200 3185
+local - - [24/Oct/1994:14:38:19 -0600] "GET index.html HTTP/1.0" 200 3100
+local - - [24/Oct/1994:14:38:29 -0600] "GET 36.html HTTP/1.0" 200 788
+local - - [24/Oct/1994:14:38:32 -0600] "GET index.html HTTP/1.0" 404 -
+local - - [24/Oct/1994:14:39:16 -0600] "GET index.html HTTP/1.0" 200 3185
+local - - [24/Oct/1994:14:39:25 -0600] "GET index.html HTTP/1.0" 200 3100
+local - - [24/Oct/1994:14:39:33 -0600] "GET 36.html HTTP/1.0" 200 821
+local - - [24/Oct/1994:14:39:36 -0600] "GET index.html HTTP/1.0" 404 -
+local - - [24/Oct/1994:14:40:00 -0600] "GET index.html HTTP/1.0" 302 -
+local - - [24/Oct/1994:14:40:00 -0600] "GET index.html HTTP/1.0" 200 2451
+local - - [24/Oct/1994:14:40:07 -0600] "GET 37.html HTTP/1.0" 404 -
+local - - [24/Oct/1994:14:41:06 -0600] "GET index.html HTTP/1.0" 200 3185
+local - - [24/Oct/1994:14:41:16 -0600] "GET index.html HTTP/1.0" 200 3100
+local - - [24/Oct/1994:14:41:24 -0600] "GET 36.html HTTP/1.0" 200 822
+local - - [24/Oct/1994:14:41:30 -0600] "GET index.html HTTP/1.0" 302 -
+local - - [24/Oct/1994:14:41:30 -0600] "GET index.html HTTP/1.0" 200 1161
+local - - [24/Oct/1994:14:41:38 -0600] "GET 37.html HTTP/1.0" 404 -
+local - - [24/Oct/1994:14:59:24 -0600] "GET index.html HTTP/1.0" 200 3185
+local - - [24/Oct/1994:14:59:30 -0600] "GET 39.html HTTP/1.0" 200 572
+local - - [24/Oct/1994:14:59:40 -0600] "GET 40.html HTTP/1.0" 404 -
+local - - [24/Oct/1994:15:00:16 -0600] "GET 41.html HTTP/1.0" 200 35036
+local - - [24/Oct/1994:15:00:44 -0600] "GET 5.html HTTP/1.0" 200 2065
+local - - [24/Oct/1994:15:01:13 -0600] "GET index.html HTTP/1.0" 200 3100
+local - - [24/Oct/1994:15:01:36 -0600] "GET index.html HTTP/1.0" 302 -
+local - - [24/Oct/1994:15:01:37 -0600] "GET index.html HTTP/1.0" 200 780
+local - - [24/Oct/1994:15:01:48 -0600] "GET 42.html HTTP/1.0" 200 3070
+local - - [24/Oct/1994:15:02:30 -0600] "GET index.html HTTP/1.0" 200 3185
+local - - [24/Oct/1994:15:02:31 -0600] "GET 2.gif HTTP/1.0" 200 2555
+local 780     index.html
+local      index.html
+local - - [24/Oct/1994:15:02:34 -0600] "GET 4.gif HTTP/1.0" 200 441
+local - - [24/Oct/1994:15:02:42 -0600] "GET index.html HTTP/1.0" 302 -
+local - - [24/Oct/1994:15:02:42 -0600] "GET index.html HTTP/1.0" 200 631
+local - - [24/Oct/1994:15:02:51 -0600] "GET 15.html HTTP/1.0" 200 861
+local - - [24/Oct/1994:15:03:14 -0600] "GET index.html HTTP/1.0" 302 -
+local - - [24/Oct/1994:15:03:14 -0600] "GET index.html HTTP/1.0" 200 3100
+local - - [24/Oct/1994:15:03:23 -0600] "GET 43.html HTTP/1.0" 200 708
+local - - [24/Oct/1994:15:04:59 -0600] "GET index.html HTTP/1.0" 200 3100
+local - - [24/Oct/1994:15:05:03 -0600] "GET index.html HTTP/1.0" 200 631
+local - - [24/Oct/1994:15:05:05 -0600] "GET index.html HTTP/1.0" 200 3100
+local - - [24/Oct/1994:15:05:08 -0600] "GET index.html HTTP/1.0" 404 3185
+remote - - [24/Oct/1994:15:07:39 -0600] "GET 28.html HTTP/1.0" 200 329
+remote - - [24/Oct/1994:15:08:05 -0600] "GET 44.html HTTP/1.0" 200 674
+remote - - [24/Oct/1994:15:08:18 -0600] "GET 29.html HTTP/1.0" 200 673
+local - - [24/Oct/1994:15:08:18 -0600] "GET index.html HTTP/1.0" 200 3185
+remote - - [24/Oct/1994:15:08:55 -0600] "GET 45.html HTTP/1.0" 200 5489
+local - - [24/Oct/1994:15:09:00 -0600] "GET index.html HTTP/1.0" 200 2231
+local - - [24/Oct/1994:15:09:14 -0600] "GET index.html HTTP/1.0" 303 419
+remote - - [24/Oct/1994:15:09:16 -0600] "GET 44.html HTTP/1.0" 200 674
+local - - [24/Oct/1994:15:09:16 -0600] "GET 46.html HTTP/1.0" 200 2534
+remote - - [24/Oct/1994:15:09:34 -0600] "GET 29.html HTTP/1.0" 200 673
+remote - - [24/Oct/1994:15:09:43 -0600] "GET 47.html HTTP/1.0" 200 540
+remote - - [24/Oct/1994:15:10:30 -0600] "GET 48.gif HTTP/1.0" 200 127037
+remote - - [24/Oct/1994:15:10:55 -0600] "GET 25.html HTTP/1.0" 200 1403
+local - - [24/Oct/1994:15:11:07 -0600] "GET index.html HTTP/1.0" 200 3185
+local - - [24/Oct/1994:15:11:08 -0600] "GET 2.gif HTTP/1.0" 400 2555
+local - - [24/Oct/1994:15:11:09 -0600] "GET 3.gif HTTP/1.0" 200 36403
+local - - [24/Oct/1994:15:11:11 -0600] "GET 4.gif HTTP/1.0" 200 441
+remote - - [24/Oct/1994:15:11:16 -0600] "GET 26.gif HTTP/1.0" 200 26694
+local - - [24/Oct/1994:15:11:19 -0600] "GET 49.html HTTP/1.0" 200 539
+remote - - [24/Oct/1994:15:11:21 -0600] "GET 27.gif HTTP/1.0" 200 871
+local - - [24/Oct/1994:15:11:37 -0600] "GET 50.html HTTP/1.0" 200 1779
+local - - [24/Oct/1994:15:11:37 -0600] "GET 51.gif HTTP/1.0" 200 5170
+local - - [24/Oct/1994:15:11:38 -0600] "GET 52.gif HTTP/1.0" 200 5605
+local - - [24/Oct/1994:15:11:38 -0600] "GET 53.gif HTTP/1.0" 200 2519
+local - - [24/Oct/1994:15:11:39 -0600] "GET 54.gif HTTP/1.0" 300 3917
+local - - [24/Oct/1994:15:11:40 -0600] "GET 55.gif HTTP/1.0" 200 8447
+local - - [24/Oct/1994:15:11:40 -0600] "GET 56.gif HTTP/1.0" 400 6667
+local - - [24/Oct/1994:15:11:41 -0600] "GET 57.gif HTTP/1.0" 200 3777
+local - - [24/Oct/1994:15:11:41 -0600] "GET 58.gif HTTP/1.0" 200 7038
+local - - [24/Oct/1994:15:11:42 -0600] "GET 59.gif HTTP/1.0" 200 6155
+local - - [24/Oct/1994:15:11:42 -0600] "GET 60.gif HTTP/1.0" 200 4549
+local - - [24/Oct/1994:15:11:43 -0600] "GET 61.gif HTTP/1.0" 200 10729
+local - - [24/Oct/1994:15:11:44 -0600] "GET 62.gif HTTP/1.0" 300 6525
+local - - [24/Oct/1994:15:11:44 -0600] "GET 63.gif HTTP/1.0" 200 6571
+remote - - [24/Oct/1994:17:18:19 -0600] "GET 155.gif" 200 2555
+remote - - [24/Oct/1994:17:18:55 -0600] "GET 156.gif" 200 36403
+remote - - [24/Oct/1994:17:19:02 -0600] "GET 157.gif" 200 441
+local      index.html
+remote - - [27/Oct/1994:12:42:44 -0600] "GET 576.html tp:// HTTP/1.0" 404 -
+local - - [27/Oct/1994:15:28:10 -0600] "GET index.html Inch Nails HTTP/1.0" 404 -
+local - - [27/Oct/1994:15:29:14 -0600] "GET index.html Inch Nails HTTP/1.0" 404 -
+remote - - [27/Oct/1994:18:51:50 -0600] "GET index.html 200 3185
+remote - - [27/Oct/1994:23:17:17 -0600] "GET index.html 200 3185
+local - - [28/Oct/1994:00:23:22 -0600] "GET 619.html" 404 -
+local - - [28/Oct/1994:00:24:32 -0600] "GET 620.html" 404 -
+local - - [28/Oct/1994:00:25:18 -0600] "GET index.html 200 514
+local - - [28/Oct/1994:00:25:19 -0600] "GET 621.gif" 200 541
+local - - [28/Oct/1994:00:25:32 -0600] "GET 622.html" 200 1811
+local - - [28/Oct/1994:09:07:50 -0600] "GET" index.html -
+local - - [28/Oct/1994:09:08:28 -0600] "GET index.html 302 -
+local - - [28/Oct/1994:09:09:35 -0600] "GET index.html 200 3185
+local - - [28/Oct/1994:09:10:21 -0600] "GET 628.html" 200 1530
+local - - [28/Oct/1994:09:10:55 -0600] "GET 629.html" 404 -
+local      index.html
+remote - - [29/Oct/1994:12:37:21 -0600] "GET 746.html" 200 2830
+remote - - [29/Oct/1994:12:37:22 -0600] "GET 747.xbm" 200 428
+remote - - [29/Oct/1994:12:37:23 -0600] "GET 748.xbm" 200 437
+remote - - [29/Oct/1994:12:37:45 -0600] "GET 749.html" 200 1524
+remote - - [29/Oct/1994:12:37:57 -0600] "GET 750.html" 200 2785
+remote - - [29/Oct/1994:12:37:58 -0600] "GET 751.xbm" 200 440
+remote - - [29/Oct/1994:12:38:34 -0600] "GET 752.html" 200 7021
+remote - - [29/Oct/1994:12:39:02 -0600] "GET 753.jpg" 200 34025
+remote - - [29/Oct/1994:12:39:19 -0600] "GET 754.jpg" 200 92728
+remote - - [29/Oct/1994:12:39:30 -0600] "GET 755.html" 200 1552
+local - - [29/Oct/1994:14:39:34 -0600] "GET 155.gif" 200 2555
+local - - [29/Oct/1994:14:39:36 -0600] "GET 156.gif" 200 36403
+local - - [29/Oct/1994:14:39:39 -0600] "GET 157.gif" 200 441
+local - - [29/Oct/1994:14:39:50 -0600] "GET 756.gif" 200 111870
+local - - [29/Oct/1994:14:41:26 -0600] "GET 757.xbm" 200 246
+local - - [29/Oct/1994:14:41:27 -0600] "GET 758.xbm" 200 506
+local - - [29/Oct/1994:14:41:39 -0600] "GET 759.gif" 200 1736
+local - - [29/Oct/1994:14:42:11 -0600] "GET 760.gif" 200 6539
+local - - [29/Oct/1994:14:42:51 -0600] "GET 761.gif" 404 -
+local - - [29/Oct/1994:14:42:51 -0600] "GET 762.gif" 404 -
+local - - [29/Oct/1994:14:43:03 -0600] "GET 763.xbm" 200 450
+local - - [29/Oct/1994:14:43:27 -0600] "GET 764.gif" 200 27606
