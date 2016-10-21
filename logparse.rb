@@ -49,7 +49,8 @@ open('http://s3.amazonaws.com/tcmg412-fall2016/http_access_log') do |file|
 #      }
 #      end
 ########################################################
-
+      
+      #Idea from Adam Mikeal
       if requests_per_month.has_key? "#{month_year}"
         requests_per_month[month_year].push(line)
       else
